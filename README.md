@@ -3,6 +3,6 @@ The ALX Zero Day repository is a collection of tasks and projects related to ALX
 
 ## Contents
 
-0x03. Git
-Bash
-.gitignore
+- 0x03. Git
+- Bash
+- .gitignore
